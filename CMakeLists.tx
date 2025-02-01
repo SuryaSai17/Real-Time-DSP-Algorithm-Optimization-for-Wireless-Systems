@@ -1,0 +1,5 @@
+git clone https://github.com/yourusername/Real-Time-DSP-Algorithm-Optimization.git
+
+mkdir build && cd build
+cmake ..
+make
